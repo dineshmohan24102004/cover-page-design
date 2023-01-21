@@ -145,7 +145,15 @@ Runserver to get the output.
 ## Output:
 cover page:
 ![COVER](images/back.jpg)
-![COVER](images/mine.jpeg)
+
+![cover](https://user-images.githubusercontent.com/119478475/213881239-75a2605c-2f2c-44a3-a9de-b11d2884d495.png)
+
+
+HTML validation:
+
+![Screenshot (52) 1](https://user-images.githubusercontent.com/119478475/213881208-5f50b6cb-e3eb-4800-94e9-acc5c3a62358.png)
+
+
 
 ## Result:
 cover page designed and displayed successfully.
